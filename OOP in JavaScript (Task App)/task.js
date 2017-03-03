@@ -38,7 +38,6 @@ enumerable: true,
 configurable: true
 })
 
-
 console.log(Object.keys(task));
 console.log(Object.keys(urgentTask));
 console.log(task.toString());
