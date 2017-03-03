@@ -1,0 +1,4 @@
+Download and install node.js.
+Download and install a text editor (e.g. Visual Studio Code).
+Open the task.js file.
+Using the terminal or the command line execute the .js file using the following command (e.g. node task.js).
